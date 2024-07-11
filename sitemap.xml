@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blogxw.top/2024/07/11/%E5%A6%82%E4%BD%95%E4%BD%BFXTC%E6%89%8B%E8%A1%A8%E5%88%B7%E5%85%A5%E7%AC%AC%E4%B8%89%E6%96%B9APP/</loc>
+    
+    <lastmod>2024-07-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blogxw.top/2024/06/08/Unity%E7%AC%94%E8%AE%B0-%E5%AF%B9%E8%B1%A1%E6%B1%A0%E7%AE%A1%E7%90%86%E5%99%A8/</loc>
     
     <lastmod>2024-06-08</lastmod>
@@ -265,7 +274,7 @@
 
   <url>
     <loc>https://blogxw.top/</loc>
-    <lastmod>2024-06-08</lastmod>
+    <lastmod>2024-07-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -273,35 +282,42 @@
   
   <url>
     <loc>https://blogxw.top/tags/%E9%9B%86%E5%90%88/</loc>
-    <lastmod>2024-06-08</lastmod>
+    <lastmod>2024-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blogxw.top/tags/C/</loc>
-    <lastmod>2024-06-08</lastmod>
+    <lastmod>2024-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blogxw.top/tags/Unity/</loc>
-    <lastmod>2024-06-08</lastmod>
+    <lastmod>2024-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blogxw.top/tags/Hexo/</loc>
-    <lastmod>2024-06-08</lastmod>
+    <lastmod>2024-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blogxw.top/tags/%E5%BB%BA%E7%AB%99/</loc>
-    <lastmod>2024-06-08</lastmod>
+    <lastmod>2024-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blogxw.top/tags/XTC/</loc>
+    <lastmod>2024-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -310,28 +326,35 @@
   
   <url>
     <loc>https://blogxw.top/categories/Java/</loc>
-    <lastmod>2024-06-08</lastmod>
+    <lastmod>2024-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blogxw.top/categories/Unity/</loc>
-    <lastmod>2024-06-08</lastmod>
+    <lastmod>2024-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blogxw.top/categories/Hexo/</loc>
-    <lastmod>2024-06-08</lastmod>
+    <lastmod>2024-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blogxw.top/categories/tip/</loc>
-    <lastmod>2024-06-08</lastmod>
+    <lastmod>2024-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blogxw.top/categories/XTC/</loc>
+    <lastmod>2024-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
